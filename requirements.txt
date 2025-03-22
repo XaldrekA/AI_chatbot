@@ -73,7 +73,6 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-vlc==3.0.21203
-pywin32==308
 requests==2.32.3
 rsa==4.9
 scipy==1.14.1
